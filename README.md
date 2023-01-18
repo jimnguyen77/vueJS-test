@@ -12,7 +12,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 ```
 
-## Run the JSON-Server backend (http://localhost:5000)
+### Run the JSON-Server backend (http://localhost:5000)
 
 ```sh
 npm install
